@@ -10,3 +10,4 @@ Conteúdo com projetos voltados para Data Science
 - Plotagem de gráficos
 - Conclusões sobre os estudos de casos
 - Sugestões e insights
+- Modelos Machine Learning
